@@ -19,7 +19,15 @@
 
 <p align="center">
 Organizacion destinada a almacenar los repositorios utilizados para la materia PED941 para el ciclo 2 año 2022 de la Universidad Don Bosco, El Salvador.
+<p>INTEGRANTES:</p>
+
+<p align="center">SALAS BOJORQUEZ, KALLAHAN ANDREA	            - SB210537</p>
+<p align="center">FLORES QUINTANILLA, ROBERTO CARLOS	        - FQ211776</p>
+
+
 </p>
+
+
 
 
 &nbsp;
